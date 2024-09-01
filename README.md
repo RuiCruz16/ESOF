@@ -1,6 +1,6 @@
 # Smart Pantry Control Mobile App Development Report
 
-Welcome to the documentation pages of our app named **Spantry**!
+Welcome to the documentation pages of our app named **Spantry** carried out in the Software Engineering course of the second year, second semester!
 
 You can find here details about the Smart Pantry, from a high-level vision to low-level implementation decisions, a kind of Software Development Report, organized by type of activities:
 
